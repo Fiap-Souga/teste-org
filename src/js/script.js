@@ -1,3 +1,3 @@
 function trocar(cor){
-    body.style.backgorund=cor;
+    document.body.style.background=cor;
 }
